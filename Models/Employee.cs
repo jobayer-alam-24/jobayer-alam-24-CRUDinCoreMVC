@@ -13,6 +13,7 @@ namespace jobayer_alam_24_CRUDinCoreMVC.Models
         public string Name { get; set; }
         public string Email { get; set; }
         public string Position { get; set; }
+        [Display(Name = "Department Name")]
         public int DepartmentId { get; set; }
 
         public Department? Department { get; set; }

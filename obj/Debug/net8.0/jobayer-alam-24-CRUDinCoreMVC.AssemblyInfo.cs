@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("jobayer-alam-24-CRUDinCoreMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d838e4fb1dba841737d0105cc88facf4845679d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e35327d43e6e723b93bfbea8b33c25c5953ecfa4")]
 [assembly: System.Reflection.AssemblyProductAttribute("jobayer-alam-24-CRUDinCoreMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("jobayer-alam-24-CRUDinCoreMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
