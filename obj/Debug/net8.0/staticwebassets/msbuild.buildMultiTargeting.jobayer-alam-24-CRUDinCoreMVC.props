@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\jobayer-alam-24-CRUDinCoreMVC.props" />
+</Project>
